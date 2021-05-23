@@ -1,0 +1,17 @@
+body {
+    font-family:Lucida Console;
+    background-image:linear-gradient(to right,#B939D3,white, orange);
+    text-align:center;
+}
+img{
+border-radius:20px;
+}
+a{
+    font-size:50px;
+    text-decoration:none;
+}
+li{
+ font-size:30px;
+ text-shadow:4px 4px 1px #FFEF40; 
+
+}
