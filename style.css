@@ -17,6 +17,7 @@ li{
 footer{
     background-image:linear-gradient(to bottom,#FF0000,white,#CCF600);
     border-radius:20px;
-
-
+}
+img{
+margin: 15px;
 }
