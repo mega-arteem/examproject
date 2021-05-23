@@ -13,5 +13,10 @@ a{
 li{
  font-size:30px;
  text-shadow:4px 4px 1px #FFEF40; 
+}
+footer{
+    background-image:linear-gradient(to bottom,#FF0000,white,#CCF600);
+
+
 
 }
